@@ -39,7 +39,6 @@ class _HomeState extends State<Home> {
               size: 50.0,
             ),
           );
-          ;
         });
   }
 }
